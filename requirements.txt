@@ -1,0 +1,6 @@
+Run =>  pip install ultralytics
+Above command installs all required libraries.
+YOLO version => Ultralytics YOLOv8.0.132 
+Python-3.10.12
+torch-2.0.1+cu118
+onnxruntime-1.15.1
